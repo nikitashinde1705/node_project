@@ -1,0 +1,4 @@
+This is the example of stream and buffer.
+welcome
+hello
+kdlfkal

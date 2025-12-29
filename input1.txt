@@ -1,0 +1,3 @@
+this is pipe concept.
+how it works with stream.
+Pipe is only working with stream.
