@@ -8,4 +8,4 @@ fs.createReadStream("input.txt.gz")
 .pipe(gzip)
 .pipe(fs.createWriteStream("input.txt"));
 
-console.log("File Decompressed Successfully");
+console.log("File Decompressed Succesfully");
