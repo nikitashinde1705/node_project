@@ -9,3 +9,4 @@ fs.createReadStream("input.txt.gz")
 .pipe(fs.createWriteStream("input.txt"));
 
 console.log("File Decompressed Succesfully");
+
