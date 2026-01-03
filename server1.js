@@ -110,6 +110,7 @@ const server = http.createServer((req,res) => {
     }
 });
 
+//server call
 server.listen(3000, () =>{
     console.log("Server Running at http://localhost:3000");
 });
